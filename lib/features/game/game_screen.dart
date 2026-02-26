@@ -20,12 +20,6 @@ class _GameScreenState extends State<GameScreen> {
   }
 
   @override
-  void dispose() {
-    context.read<GameViewModel>().dispose();
-    super.dispose();
-  }
-
-  @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final colorScheme = theme.colorScheme;
