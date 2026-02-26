@@ -1,0 +1,35 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blockGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blockGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blockGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  
+  <!-- Bottom block (blue) - base -->
+  <rect x="40" y="120" width="120" height="35" rx="4" fill="url(#blockGradient1)"/>
+  <rect x="42" y="120" width="116" height="4" rx="2" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Middle block (green) - aligned -->
+  <rect x="55" y="75" width="90" height="35" rx="4" fill="url(#blockGradient2)"/>
+  <rect x="57" y="75" width="86" height="4" rx="2" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Top block (orange) - slightly offset -->
+  <rect x="65" y="30" width="70" height="35" rx="4" fill="url(#blockGradient3)"/>
+  <rect x="67" y="30" width="66" height="4" rx="2" fill="#ffffff" opacity="0.3"/>
+  
+  <!-- Tap indicator cursor above top block -->
+  <circle cx="130" cy="15" r="5" fill="#3b82f6" opacity="0.8"/>
+  <path d="M135 20 L140 30 L135 35" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+</svg>
