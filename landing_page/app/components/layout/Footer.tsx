@@ -14,7 +14,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Image
-                src="/logo.svg"
+                src="/app_logo.png"
                 alt="StackTap"
                 width={40}
                 height={40}

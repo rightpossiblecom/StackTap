@@ -18,8 +18,7 @@ export const metadata: Metadata = {
   keywords: "arcade game, stacking game, mobile game, casual game",
   authors: [{ name: "StackTap" }],
   icons: {
-    icon: "/logo.svg",
-    favicon: "/favicon.ico",
+    icon: "/app_logo.png",
   },
 };
 

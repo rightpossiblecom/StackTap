@@ -74,7 +74,7 @@ export default function Hero() {
                 {/* Phone content */}
                 <div className="pt-8 h-full flex flex-col items-center justify-center bg-gradient-to-b from-slate-50 to-white dark:from-slate-900 dark:to-slate-800">
                   <Image
-                    src="/logo.svg"
+                    src="/app_logo.png"
                     alt="StackTap Logo"
                     width={60}
                     height={60}

@@ -38,7 +38,7 @@ Open [http://localhost:3000](http://localhost:3000) to see your landing page!
 - ✅ **FAQ Section** - 8 Q&A pairs
 
 ### Branding Assets
-- ✅ **Logo** (`/public/logo.svg`) - Professional StackTap logo
+- ✅ **Logo** (`/public/app_logo.png`) - Professional StackTap logo
 - ✅ **Favicon** (`/public/favicon.ico`) - Browser icon
 - ✅ **Design System** - Blue/Emerald/Amber colors + dark mode
 
@@ -87,7 +87,7 @@ landing_page/
 │   ├── page.tsx
 │   └── globals.css
 └── public/
-    ├── logo.svg
+    ├── app_logo.png
     └── favicon.ico
 ```
 

@@ -68,7 +68,7 @@ app/
 ├── page.tsx
 └── globals.css
 public/
-├── logo.svg
+├── app_logo.png
 └── favicon.ico
 ```
 

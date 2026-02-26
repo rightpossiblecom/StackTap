@@ -15,7 +15,7 @@ Complete full rebranding of the landing page from a generic Next.js template to 
 ## ✅ Completed Tasks
 
 ### Phase 1: Visual Assets & Branding
-- ✅ **Created Custom Logo** (`logo.svg`)
+- ✅ **Created Custom Logo** (`app_logo.png`)
   - Modern geometric design showing stacked blocks
   - Blue → Green → Orange gradient representing game colors
   - Scalable SVG format for all resolutions
@@ -174,7 +174,7 @@ Complete full rebranding of the landing page from a generic Next.js template to 
 ## 📁 Files Created/Modified
 
 ### New Files Created
-- `landing_page/public/logo.svg` - Main logo
+- `landing_page/public/app_logo.png` - Main logo
 - `landing_page/public/favicon.ico` - Browser favicon
 - `landing_page/app/components/layout/Navbar.tsx` - Navigation bar
 - `landing_page/app/components/layout/Footer.tsx` - Footer component
