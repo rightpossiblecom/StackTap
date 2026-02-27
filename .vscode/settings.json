@@ -1,0 +1,9 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^& \"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\\\\bin\\\\keytool\\.exe\" -genkey -v -keystore \"docs/release/stacktap-release\\.jks\" -keyalg RSA -keysize 2048 -validity 10000 -alias stacktap -storepass stacktap123 -keypass stacktap123 -dname \"CN=StackTap, OU=StackTap, O=StackTap, L=City, ST=State, C=US\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "Copy-Item": true
+    }
+}

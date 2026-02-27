@@ -1,0 +1,21 @@
+Short description (max 80 chars):
+Simple arcade reflex game — tap to stack blocks and beat your high score.
+
+Full description (plain text, max 4000 chars):
+StackTap is a minimal, addictive arcade game where you tap the screen to drop moving blocks and stack them as high as possible.
+
+- Tap to drop the moving block.
+- If the block overlaps the previous one, it trims to the overlapping area and the stack grows.
+- Miss the overlap and the run ends — try again to beat your high score.
+
+Features:
+- Quick, replayable sessions
+- Simple one‑tap controls
+- Color progression that changes as you stack
+- Local high score tracking (no accounts, no analytics)
+
+Privacy & Data:
+All game data (high score and basic settings) are stored locally on the device. We do not collect or transmit personal data.
+
+Call to action:
+Tap to start stacking — can you reach the sky?

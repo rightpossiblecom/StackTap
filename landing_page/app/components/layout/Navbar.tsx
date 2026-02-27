@@ -19,7 +19,7 @@ export default function Navbar() {
             height={40}
             className="dark:filter dark:invert"
           />
-          <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-emerald-600 bg-clip-text text-transparent">
+          <span className="text-xl font-bold  from-blue-600 to-emerald-600 bg-clip-text text-transparent">
             StackTap
           </span>
         </Link>
