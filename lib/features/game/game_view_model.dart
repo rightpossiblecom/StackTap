@@ -15,7 +15,7 @@ class Block {
 
 class GameViewModel extends ChangeNotifier {
   // Game state
-  List<Block> _blocks = [];
+  final List<Block> _blocks = [];
   late Block _movingBlock;
   double _blockSpeed = AppConstants.blockSpeedInitial;
   int _score = 0;
